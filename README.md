@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Varantt
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Full stack development
 - 📫 You can reach me via my gmail: varantkalemkerian@gmail.com
 
 <!---
